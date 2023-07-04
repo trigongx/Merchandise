@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Merchandise</string>
+    <string name="title_statistics">Статистика</string>
+    <string name="title_product">Товары</string>
+    <string name="title_profile">Профиль</string>
+    <string name="add_product">+</string>
+    <string name="name_product">Название</string>
+    <string name="description_product">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="sell">Продать товар</string>
+    <string name="delete">Удалить товар</string>
+    <string name="select_img">Выбрать фото</string>
+    <string name="amount_product">Количество товара</string>
+    <string name="start_price_product">Цена закупа</string>
+    <string name="end_price_product">Цена продажи</string>
+    <string name="notifications">Уведомления</string>
+    <string name="settings">Настройки</string>
+    <string name="about_app">О приложении</string>
+    <string name="search">Поиск</string>
+    <string name="no_notification">Уведомлений пока нет</string>
+    <string name="product_sell">Продажа товара</string>
+    <string name="more_information">Подробная информация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="support">Помощь и поддержка</string>
+    <string name="text_about_app">  Учет товаров - это программа обеспечивающая работником предпринимателя малого бизнеса, вести учет наличия и количества товара. Так же позволяет ввести отчетность по расходам и доходам за определенный период, чтобы сэкономить время и ресурсы. Клиент всегда может провести инвентаризацию которая позволит узнать сколько товара есть в наличии. При поступлении товара можно указать название, описание, маркеровку и цену товара. Ввести свой бизнес будет удобно и практично.</string>
+    <string name="support_contact">По всем вопросам</string>
+    <string name="director_phone">+996 702 260 383</string>
+    <string name="director_email">bolotbekovdaniar7@gmail.com</string>
+</resources>

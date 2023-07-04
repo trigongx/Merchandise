@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:title="@string/notifications"
+        android:icon="@drawable/ic_notification"
+        android:id="@+id/item_notifications"/>
+    <item
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/item_settings"/>
+    <item
+        android:title="@string/support"
+        android:icon="@drawable/ic_help"
+        android:id="@+id/item_help"/>
+    <item
+        android:title="@string/about_app"
+        android:icon="@drawable/ic_question"
+        android:id="@+id/item_about_app"/>
+
+</menu>
